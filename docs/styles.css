@@ -41,7 +41,7 @@ cite #book{
     color: dimgray;
     padding-left: 40px;
     padding-right: 0px;
-
+    display: none;
 }
 #buttom a, a:visited {
     color: rgb(66, 66, 66)
